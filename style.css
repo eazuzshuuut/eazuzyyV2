@@ -1,0 +1,14 @@
+html{
+    background-color: #1a1a1a;
+    color: whitesmoke;
+}
+body{
+    text-align: center;
+}
+a{
+    color: #4f4f4f;
+    text-decoration: none;
+}
+a:hover{
+    color: whitesmoke;
+}
